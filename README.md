@@ -154,7 +154,7 @@ Through this project, I gained practical experience in:
 ---
 
 
-## Author
+## Authors
 
 **Nadine Ashmawey**
 **Zina Shady**
